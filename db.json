@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "name": "Maiju",
+      "phoneNumber": "0123456789",
+      "id": 1
+    },
+    {
+      "name": "Liisa",
+      "phoneNumber": "0100000000",
+      "id": 2
+    },
+    {
+      "name": "Maija",
+      "phoneNumber": "0200000000",
+      "id": 3,
+      "number": ""
+    },
+    {
+      "name": "anni",
+      "phoneNumber": "0123456789",
+      "id": 5
+    }
+  ]
+}
